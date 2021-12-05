@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192896069923",
+    "project_id": "promastero",
+    "storage_bucket": "promastero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192896069923:android:d3be971a6c424872111c96",
+        "android_client_info": {
+          "package_name": "io.otabek.promastero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192896069923-cfjk73ss9uvhgrd786oq9uv4q7sv175a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDavmPO8LeHI9WLoGJAUKP0wkX2koDfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192896069923-cfjk73ss9uvhgrd786oq9uv4q7sv175a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
